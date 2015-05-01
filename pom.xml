@@ -30,6 +30,7 @@
 				<version>2.4.1</version>
 				<configuration>
 					<finalName>rename-episode</finalName>
+					<outputDirectory>${basedir}</outputDirectory>
 					<!-- get all project dependencies -->
 					<descriptorRefs>
 						<descriptorRef>jar-with-dependencies</descriptorRef>
